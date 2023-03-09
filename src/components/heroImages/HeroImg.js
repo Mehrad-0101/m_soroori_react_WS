@@ -12,7 +12,7 @@ export const HeroImg = () => {
       </div>
 
       <div className="content">
-        <p>HI,MY NAME IS M.SOROORI. I'M A SRUM MASTER AND</p>
+        <p>HI,MY NAME IS M.SOROORI. I'M A SRUM MASTER  AND</p>
         <h1>WEB Developer</h1>
         <div>
           <Link to="/project" className="btn">
